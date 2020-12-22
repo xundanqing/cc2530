@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>35273321</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\src\app\dk_main.c</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_config.h</file>
+      <file>$PROJ_DIR$\..\src\app\dk_rfvp.c</file>
+      <file>$PROJ_DIR$\..\src\app\dk_rfvp.h</file>
+      <file>$PROJ_DIR$\..\src\protocal\__generated__zigbee.h</file>
+      <file>$PROJ_DIR$\..\src\protocal\__generated__ir.h</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_rf_drv.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\..\src\protocal\dkTypes.c</file>
+      <file>$PROJ_DIR$\..\src\protocal\__generated_handlers__zigbee.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dkTypes.r51</file>
+      <file>$PROJ_DIR$\..\src\protocal\dkTypes.h</file>
+      <file>$PROJ_DIR$\..\src\protocal\__generated__laser.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dkTypes.pbi</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_flash.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_adc.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_system.h</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_led.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_adc.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_uart.h</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_rf_drv.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_timer.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_system.pbi</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_gpio.c</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_uart_drv.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_system.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_timer.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_rf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rfvp.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rf.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_adc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_led.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_flash.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_main.pbi</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_key.h</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_led.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_uart.c</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_key.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_dma.h</file>
+      <file>$PROJ_DIR$\..\src\drv\dk_uart_drv.c</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_flash.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_gpio.h</file>
+      <file>$PROJ_DIR$\..\src\hal\dk_rf.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_key.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_key.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_uart_drv.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rfvp.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_gpio.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rf_drv.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_main.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_adc.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_uart.pbi</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_CC2530F256_banked.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_system.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\dk.hex</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\dk.d51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_timer.r51</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rf.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_led.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_rf_drv.r51</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_uart.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\dk_uart_drv.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\src\app\dk_main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 68 17 20 19 44 38 1 37 43 3 28</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 29 68 17 20 19 44 38 1 37 43 3 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\app\dk_rfvp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 23 29 68 17 20 26</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 61 23 29 68 17 20 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 60</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\protocal\dkTypes.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 17 68 61 23 7 8</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 12 17 68 61 23 7 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 17 68 20 61 23</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 17 68 20 61 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 20 17</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 68 20 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\drv\dk_led.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 1</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 44 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\drv\dk_rf_drv.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 68 17 61 23 6</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 29 68 17 12 61 23 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 68 17 28</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 20 68 17 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 68 17 20</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 44 68 17 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_system.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 68</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 68 17 1 44</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 20 68 17 1 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\drv\dk_key.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 1 20 68 17</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 44 1 20 68 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\drv\dk_uart_drv.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 68 17 28 26</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 20 68 17 28 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\hal\dk_rf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 68 17 20 61 23</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 29 68 17 20 61 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\dk.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 14 33 52 30 47 66 36 32 53 31 24 49 56 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\dk.d51</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 57 11 55 35 51 46 34 54 65 67 50 58 63 69 48 64</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
